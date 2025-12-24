@@ -11,6 +11,12 @@
 - **Examples Integration**: 5 pre-loaded document samples for quick testing.
 - **Queueing Support**: Handles up to 30 concurrent jobs with shareable links.
 
+---
+
+<img width="1917" height="2065" alt="Screenshot 2025-12-24 at 20-42-10 NVIDIA Nemotron Parse OCR - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/1445d039-9e04-43f7-a840-2dc8e992fc62" />
+
+---
+
 ## Prerequisites
 
 - Python 3.10 or higher.
