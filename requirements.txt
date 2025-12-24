@@ -16,5 +16,4 @@ einops
 gradio
 pillow
 torch
-
 timm
